@@ -8,5 +8,5 @@ Este proyecto implementa un sencillo juego de gato (Tic Tac Toe) utilizando HTML
 1. Descarga todos los archivos del proyecto, incluyendo `index.html`, `styles.css`, `gato.ico`,y `script.js`.
 2. Abre el archivo `index.html` en tu navegador web favorito y disfruta del juego.
 3. Si NO desea descargar los archivos puede acceder al siguiente URL: https://juegotictactoe.000webhostapp.com.
-##Nota:
+## Nota:
 El enlace presenta "fallas" en el particular caso del navegador Chrome.
